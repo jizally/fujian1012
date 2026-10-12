@@ -1,0 +1,6 @@
+{
+  "name": "附件上传 - 企业与CA认证",
+  "description": "企业认证附件上传、营业执照识别、发票设置与CA人脸识别实名认证移动端页面",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
